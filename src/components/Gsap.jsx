@@ -23,7 +23,7 @@ const Gsap = () => {
         gsap.fromTo(
             ".box2",
             { opacity: 0 },
-            { opacity: 1, duration: 5, stagger: 4.8 }
+            { opacity: 1, duration: 5, stagger: 4.7 }
         );
     }, []);
 
